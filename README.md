@@ -1,4 +1,4 @@
-gging Face LLM Project
+## Hugging Face LLM Project
 
 📌 # Project Overview
 
